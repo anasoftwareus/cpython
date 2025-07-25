@@ -213,7 +213,7 @@ See `PEP 790 <https://peps.python.org/pep-0790/>`__ for Python 3.15 release deta
 
 Copyright and License Information
 ---------------------------------
-
+Copyright © 2025 Ana.  All rights reserved.
 
 Copyright © 2001 Python Software Foundation.  All rights reserved.
 
